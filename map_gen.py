@@ -42,7 +42,7 @@ def main():
     input_dir = '/export/witham3/create-ip-replica/CREATE-IP-list-todo'
     done_dir = '/export/witham3/create-ip-replica/CREATE-IP-list-done'
     output_dir = '/export/witham3/create-ip-replica/CREATE-IP-maps-todo'
-    ini_dir = '/esg/config/esgcet'
+    ini_dir = '/export/witham3/create-ip-replica/ini'
 
     update_ini()
 
