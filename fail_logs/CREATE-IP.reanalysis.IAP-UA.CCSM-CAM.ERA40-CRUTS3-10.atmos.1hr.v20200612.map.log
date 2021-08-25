@@ -1,0 +1,2143 @@
+2021-08-24 13:17:07 INFO     No Globus UUID defined.
+2021-08-24 13:17:07 INFO     No data transfer node defined.
+2021-08-24 13:17:07 INFO     Converting mapfile...
+2021-08-24 13:17:07 INFO     Running autocurator...
+2021-08-24 13:17:07 INFO     Autocurator command: autocurator --out_pretty --out_json /tmp/tmprw6l8_al --files "/p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_*.nc"
+Parameters:
+  --files <string> ["/p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_*.nc"] 
+  --in_json <string> [""] 
+  --out_xml <string> [""] 
+  --out_json <string> ["/tmp/tmprw6l8_al"] 
+  --out_pretty <bool> [true] 
+------------------------------------------------------------
+Creating IndexedDataset.. Done
+Populating IndexedDataset
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198703010030-198703312330.nc
+..Loading dimensions
+..Loading variables
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197205010030-197205312330.nc
+..Loading dimensions
+..Loading variables
+
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199805010030-199805312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198701010030-198701312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198306010030-198306302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199407010030-199407312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196710010030-196710312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196911010030-196911302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196205010030-196205312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197906010030-197906302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199505010030-199505312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200109010030-200109302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198611010030-198611302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196502010030-196502282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198211010030-198211302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196302010030-196302282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198403010030-198403312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197405010030-197405312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199401010030-199401312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198706010030-198706302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200111010030-200111302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196501010030-196501312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196809010030-196809302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199104010030-199104302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197201010030-197201312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199008010030-199008312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196106010030-196106302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196104010030-196104302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198707010030-198707312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198106010030-198106302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199204010030-199204302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197508010030-197508312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195910010030-195910312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196608010030-196608312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198512010030-198512312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198905010030-198905312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196002010030-196002292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200012010030-200012312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197406010030-197406302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198104010030-198104302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198904010030-198904302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198311010030-198311302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199604010030-199604302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197302010030-197302282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198608010030-198608312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197203010030-197203312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198712010030-198712312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197107010030-197107312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198109010030-198109302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199504010030-199504302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197506010030-197506302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196202010030-196202282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197204010030-197204302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199502010030-199502282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195801010030-195801312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196612010030-196612312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197304010030-197304302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195808010030-195808312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197206010030-197206302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195804010030-195804302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197801010030-197801312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200004010030-200004302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197403010030-197403312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198803010030-198803312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196804010030-196804302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195905010030-195905312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198902010030-198902282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198808010030-198808312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198411010030-198411302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196112010030-196112312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198912010030-198912312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197005010030-197005312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196808010030-196808312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199007010030-199007312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196001010030-196001312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197404010030-197404302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199110010030-199110312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197409010030-197409302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197602010030-197602292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196508010030-196508312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196406010030-196406302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197102010030-197102282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200101010030-200101312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197608010030-197608312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198901010030-198901312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196810010030-196810312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196604010030-196604302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196004010030-196004302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197004010030-197004302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198102010030-198102282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199802010030-199802282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200008010030-200008312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196101010030-196101312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199302010030-199302282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196704010030-196704302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199907010030-199907312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200011010030-200011302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198204010030-198204302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197209010030-197209302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198001010030-198001312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198402010030-198402292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196407010030-196407312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198110010030-198110312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197101010030-197101312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198709010030-198709302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198004010030-198004302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197703010030-197703312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200007010030-200007312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198308010030-198308312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199108010030-199108312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197211010030-197211302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197808010030-197808312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198702010030-198702282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196007010030-196007312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196102010030-196102282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197811010030-197811302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199503010030-199503312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198811010030-198811302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196801010030-196801312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198009010030-198009302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196803010030-196803312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199712010030-199712312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198907010030-198907312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196601010030-196601312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196409010030-196409302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196805010030-196805312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196103010030-196103312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195903010030-195903312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197507010030-197507312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199912010030-199912312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197702010030-197702282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199611010030-199611302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197207010030-197207312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198807010030-198807312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195904010030-195904302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198610010030-198610312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196204010030-196204302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198906010030-198906302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199005010030-199005312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199506010030-199506302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198205010030-198205312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200010010030-200010312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198202010030-198202282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197309010030-197309302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199307010030-199307312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198209010030-198209302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198011010030-198011302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199609010030-199609302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197505010030-197505312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196509010030-196509302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199205010030-199205312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197905010030-197905312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198910010030-198910312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200104010030-200104302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198710010030-198710312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197803010030-197803312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196308010030-196308312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199901010030-199901312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196310010030-196310312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200001010030-200001312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199908010030-199908312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197510010030-197510312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197010010030-197010312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200105010030-200105312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200112010030-200112312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196405010030-196405312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198804010030-198804302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199012010030-199012312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196507010030-196507312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198508010030-198508312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196307010030-196307312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195810010030-195810312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199010010030-199010312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198606010030-198606302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198407010030-198407312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195909010030-195909302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197802010030-197802282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199201010030-199201312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198208010030-198208312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198309010030-198309302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198503010030-198503312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197307010030-197307312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199011010030-199011302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199308010030-199308312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196209010030-196209302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197303010030-197303312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199107010030-199107312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199709010030-199709302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197106010030-197106302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197104010030-197104302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197709010030-197709302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197311010030-197311302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199309010030-199309302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196411010030-196411302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198607010030-198607312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197908010030-197908312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199902010030-199902282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199402010030-199402282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198012010030-198012312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197805010030-197805312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197902010030-197902282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196203010030-196203312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195911010030-195911302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196212010030-196212312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196806010030-196806302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196908010030-196908312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196807010030-196807312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197603010030-197603312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198003010030-198003312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197901010030-197901312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198307010030-198307312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200102010030-200102282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197108010030-197108312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196506010030-196506302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197305010030-197305312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198605010030-198605312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197306010030-197306302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196607010030-196607312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197807010030-197807312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198301010030-198301312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195803010030-195803312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197112010030-197112312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199708010030-199708312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200103010030-200103312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199703010030-199703312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199811010030-199811302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199705010030-199705312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196905010030-196905312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198201010030-198201312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198505010030-198505312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196708010030-196708312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199306010030-199306302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196610010030-196610312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196010010030-196010312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197210010030-197210312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196511010030-196511302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198601010030-198601312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198107010030-198107312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197003010030-197003312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196105010030-196105312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197712010030-197712312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199412010030-199412312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199602010030-199602292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199803010030-199803312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200002010030-200002292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196711010030-196711302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199806010030-199806302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196003010030-196003312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198911010030-198911302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199006010030-199006302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197011010030-197011302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198304010030-198304302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199404010030-199404302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196909010030-196909302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199510010030-199510312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197509010030-197509302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198809010030-198809302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199702010030-199702282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196907010030-196907312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197809010030-197809302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199403010030-199403312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199103010030-199103312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196802010030-196802292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196702010030-196702282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199807010030-199807312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198806010030-198806302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197110010030-197110312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196005010030-196005312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197704010030-197704302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200110010030-200110312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196206010030-196206302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197402010030-197402282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197911010030-197911302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197707010030-197707312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199704010030-199704302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196210010030-196210312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196408010030-196408312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195812010030-195812312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196906010030-196906302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198704010030-198704302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198705010030-198705312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198510010030-198510312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197410010030-197410312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199905010030-199905312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197310010030-197310312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199106010030-199106302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198405010030-198405312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197103010030-197103312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198007010030-198007312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196309010030-196309302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196009010030-196009302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196306010030-196306302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197903010030-197903312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199507010030-199507312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199606010030-199606302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197002010030-197002282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195805010030-195805312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196109010030-196109302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198409010030-198409302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199203010030-199203312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197512010030-197512312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198909010030-198909302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197308010030-197308312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199105010030-199105312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199710010030-199710312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197812010030-197812312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196108010030-196108312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196311010030-196311302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199910010030-199910312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199701010030-199701312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195901010030-195901312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200003010030-200003312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197706010030-197706302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195802010030-195802282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196402010030-196402292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199206010030-199206302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196902010030-196902282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198008010030-198008312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199003010030-199003312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199001010030-199001312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197606010030-197606302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198812010030-198812312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197312010030-197312312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196201010030-196201312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198006010030-198006302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200107010030-200107312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198312010030-198312312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196111010030-196111302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200005010030-200005312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198108010030-198108312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199601010030-199601312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197601010030-197601312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197611010030-197611302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198305010030-198305312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198711010030-198711302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198111010030-198111302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199209010030-199209302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198105010030-198105312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197708010030-197708312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196301010030-196301312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196011010030-196011302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198005010030-198005312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196611010030-196611302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199509010030-199509302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199605010030-199605312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198002010030-198002292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199310010030-199310312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197408010030-197408312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199212010030-199212312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198404010030-198404302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196811010030-196811302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197907010030-197907312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199906010030-199906302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199311010030-199311302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198504010030-198504302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196703010030-196703312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198810010030-198810312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200106010030-200106302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199904010030-199904302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196404010030-196404302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198101010030-198101312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197212010030-197212312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195807010030-195807312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199706010030-199706302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198511010030-198511302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198509010030-198509302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199804010030-199804302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199508010030-199508312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197710010030-197710312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198603010030-198603312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198507010030-198507312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198010010030-198010312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197912010030-197912312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198410010030-198410312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200006010030-200006302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199610010030-199610312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197609010030-197609302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198302010030-198302282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198408010030-198408312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198206010030-198206302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197008010030-197008312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198801010030-198801312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199808010030-199808312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199405010030-199405312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196208010030-196208312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199812010030-199812312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196401010030-196401312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197612010030-197612312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196603010030-196603312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199004010030-199004302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195902010030-195902282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199408010030-199408312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196910010030-196910312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196107010030-196107312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197705010030-197705312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199305010030-199305312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198406010030-198406302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198903010030-198903312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199711010030-199711302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195907010030-195907312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198310010030-198310312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197810010030-197810312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196412010030-196412312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200009010030-200009302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199612010030-199612312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199210010030-199210312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197604010030-197604302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198303010030-198303312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196602010030-196602282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199009010030-199009302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199208010030-199208312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196606010030-196606302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199410010030-199410312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197208010030-197208312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197701010030-197701312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197007010030-197007312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199202010030-199202292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195811010030-195811302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195906010030-195906302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199909010030-199909302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197910010030-197910312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197503010030-197503312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196207010030-196207312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196012010030-196012312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196706010030-196706302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199207010030-199207312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198802010030-198802292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199304010030-199304302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199608010030-199608312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199801010030-199801312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196006010030-196006302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199211010030-199211302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196701010030-196701312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198212010030-198212312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197904010030-197904302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196705010030-196705312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197806010030-197806302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197006010030-197006302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196410010030-196410312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198604010030-198604302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196712010030-196712312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196605010030-196605312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199501010030-199501312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197202010030-197202292330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197501010030-197501312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198805010030-198805312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196504010030-196504302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199511010030-199511302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196211010030-196211302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198412010030-198412312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198112010030-198112312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197109010030-197109302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196901010030-196901312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198501010030-198501312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195908010030-195908312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196812010030-196812312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198203010030-198203312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199707010030-199707312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_200108010030-200108312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199111010030-199111302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199303010030-199303312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199809010030-199809302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199312010030-199312312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199109010030-199109302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195912010030-195912312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195806010030-195806302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199301010030-199301312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199102010030-199102282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197012010030-197012312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199603010030-199603312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199406010030-199406302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196312010030-196312312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196609010030-196609302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196510010030-196510312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197105010030-197105312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197502010030-197502282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199903010030-199903312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197401010030-197401312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197610010030-197610312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197711010030-197711302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196904010030-196904302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198502010030-198502282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197407010030-197407312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196512010030-196512312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199911010030-199911302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199409010030-199409302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197411010030-197411302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199810010030-199810312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197605010030-197605312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196304010030-196304302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199512010030-199512312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198908010030-198908312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196709010030-196709302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196305010030-196305312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196303010030-196303312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197001010030-197001312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197909010030-197909302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197412010030-197412312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198602010030-198602282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197301010030-197301312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196110010030-196110312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198612010030-198612312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196008010030-196008312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_195809010030-195809302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198609010030-198609302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198506010030-198506302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199112010030-199112312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198401010030-198401312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199607010030-199607312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197504010030-197504302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197009010030-197009302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196503010030-196503312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199002010030-199002282330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196707010030-196707312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197607010030-197607312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199411010030-199411302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197111010030-197111302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196403010030-196403312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196505010030-196505312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_199101010030-199101312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197511010030-197511302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198103010030-198103312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198708010030-198708312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_197804010030-197804302330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198207010030-198207312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196912010030-196912312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_198210010030-198210312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+Indexing /p/css03/esgf_publish/CREATE-IP/reanalysis/IAP-UA/CCSM-CAM/ERA40-CRUTS3-10/atmos/1hr/v20200612/tas_1hr_reanalysis_ERA40-CRUTS3-10_196903010030-196903312330.nc
+..Loading dimensions
+..Loading variables
+..WARNING: Variable "tas" has inconsistentvalue of attribute "history" across files
+..Done
+Output to JSON file
+.. Done
+------------------------------------------------------------
+2021-08-24 13:25:27 INFO     Making dataset...
+2021-08-24 13:25:27 WARNING  source_id does not agree!
+ERA40-CRUTS3-10
+2021-08-24 13:25:27 ERROR    Failed to make dataset
+Traceback (most recent call last):
+  File "/export/witham3/anaconda2/envs/replica-pub/lib/python3.8/site-packages/esgcet-5.1.0a2-py3.8.egg/esgcet/create_ip.py", line 63, in mk_dataset
+    out_json_data = mkd.get_records(map_json_data, scan.name, self.json_file)
+  File "/export/witham3/anaconda2/envs/replica-pub/lib/python3.8/site-packages/esgcet-5.1.0a2-py3.8.egg/esgcet/mk_dataset.py", line 389, in get_records
+    self.update_metadata(self.dataset, scanobj)
+  File "/export/witham3/anaconda2/envs/replica-pub/lib/python3.8/site-packages/esgcet-5.1.0a2-py3.8.egg/esgcet/mk_dataset.py", line 335, in update_metadata
+    dt_end = days_since_dt + timedelta(days=tu_end_inc)
+OverflowError: date value out of range
+08/24/2021 13:25:28

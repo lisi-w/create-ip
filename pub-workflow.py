@@ -405,7 +405,8 @@ if __name__ == '__main__':
                 time.sleep(600)
                 continue
             elif "No such file or directory" in str(ex):
-                print("error, attempting to list directory...", file=sys.stderr, flush=True)
+                print("error, " + str(ex) + " attempting to list directory...", file=sys.stderr, flush=True)
+                exit(1)
                 check_flag()
                 continue
             send_msg(str(ex), EMAIL)

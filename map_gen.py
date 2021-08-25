@@ -16,7 +16,7 @@ def send_msg(message, to_email):
     from_email = "witham3@llnl.gov" # can replace with ames4@llnl.gov
     msg['From'] = from_email
     msg['To'] = to_email
-    msg['Subject'] = "Mapfile Gen Failure"
+    msg['Subject'] = "Mapfile Gen Failure -- CREATE-IP"
     body = message
     msg.attach(MIMEText(body, 'plain'))
     s = smtplib.SMTP('nospam.llnl.gov')  # llnl smtp: nospam.llnl.gov
@@ -122,7 +122,6 @@ def main():
                             if count > 3 and not gotosleep:
                                 msg += "esgmapfile " + line + " [FAIL] " + filename + "\nERROR: " + str(ec)
                                 send_msg(msg, "e.witham@columbia.edu")
-                                send_msg(msg, "ames4@llnl.gov")
                                 exit(ec)
                             elif gotosleep:
                                 print("Filesystem error. Trying again in 20 minutes...")
