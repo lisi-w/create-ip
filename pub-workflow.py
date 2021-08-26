@@ -20,33 +20,33 @@ def get_args():
 
     parser.add_argument("--debug", dest="debug", action="store_true", default=False,
                         help="Enable debug mode, print debug statements.")
-    parser.add_argument("--cmor-tables", dest="cmor_tables", default="/export/witham3/cmor/",
+    parser.add_argument("--cmor-tables", dest="cmor_tables", required=True,
                         help="Full path to CMOR tables directory.")
     parser.add_argument("--enable-errata", dest="errata", default=False, action="store_true",
                         help="Enable checking of the Errata database for failed mapfiles.")
     parser.add_argument("--check-latest", dest="check_latest", default=False, action="store_true",
                         help="Enable querying of ESGF database to ensure map is latest version upon failure.")
-    parser.add_argument("--flag-file", dest="flag_file", default="/export/witham3/create-ip-replica/flag.txt",
+    parser.add_argument("--flag-file", dest="flag_file", required=True,
                         help="Path to (empty) flag file which will stop publisher if it contains 'stop'.")
-    parser.add_argument("--success-directory", dest="success_dir", default="/export/witham3/create-ip-replica/CREATE-IP-maps-done/",
+    parser.add_argument("--success-directory", dest="success_dir", default="/p/user_pub/publish-queue/CREATE-IP-maps-done/",
                         help="Override directory to which successfully published mapfiles are moved.")
-    parser.add_argument("--fail-directory", dest="fail_dir", default="/export/witham3/create-ip-replica/CREATE-IP-maps-err/",
+    parser.add_argument("--fail-directory", dest="fail_dir", default="/p/user_pub/publish-queue/CREATE-IP-maps-err/",
                         help="Override directory to which mapfiles which failed to publish are moved.")
-    parser.add_argument("--tmp-dir", dest="tmp_dir", default="/export/witham3/create-ip-replica/tmplogs/",
+    parser.add_argument("--tmp-dir", dest="tmp_dir", default="/p/user_pub/publish-queue/CREATE-IP-tmplogs/",
                         help="Override temporary directory for logs.")
-    parser.add_argument("--fail-logs", dest="fail_logs", default="/export/witham3/create-ip-replica/fail_logs/",
+    parser.add_argument("--fail-logs", dest="fail_logs", default="/esg/log/publisher/create-ip/",
                         help="Override directory to which logs for failed mapfiles are moved.")
-    parser.add_argument("--mapfile-path", dest="map_path", default="/export/witham3/create-ip-replica/CREATE-IP-maps-todo/",
+    parser.add_argument("--mapfile-path", dest="map_path", default="/p/user_pub/publish-queue/CREATE-IP-maps-todo/",
                         help="Override directory where mapfiles are pulled from.")
-    parser.add_argument("--tarball-directory", dest="tar_dir", default="/export/witham3/create-ip-replica/CREATE-IP-map-tarballs/",
+    parser.add_argument("--tarball-directory", dest="tar_dir", default="/p/user_pub/publish-queue/CREATE-IP-map-tarballs/",
                         help="Override directory where tarballs of published mapfiles are stored.")
-    parser.add_argument("--incomplete-directory", dest="inc_dir", default="/export/witham3/create-ip-replica/CREATE-IP-maps-inc/",
+    parser.add_argument("--incomplete-directory", dest="inc_dir", default="/p/user_pub/publish-queue/CREATE-IP-maps-inc/",
                         help="Override directory where incomplete mapfiles are moved to.")
-    parser.add_argument("--email", dest="email", default="e.witham@columbia.edu",
+    parser.add_argument("--email", dest="email", default="ames4@llnl.gov",
                         help="Primary email to send failure alerts, errors, and warnings to.")
-    parser.add_argument("--llnl-email", dest="llnl_email", default="witham3@llnl.gov",
+    parser.add_argument("--llnl-email", dest="llnl_email", default="ames4@llnl.gov",
                         help="LLNL email address for SMTP to send alerts from.")
-    parser.add_argument("-i", "--ini", dest="ini_file", default="/export/witham3/create-ip-replica/replica_pub.ini",
+    parser.add_argument("-i", "--ini", dest="ini_file", required=True,
                         help="Override config file for publication. Please use complete file path.")
 
     args = parser.parse_args()
